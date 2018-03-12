@@ -1,7 +1,8 @@
 ﻿# permission
 
 > 一个权限管理设置
- 
+使用了vuex控制路由，登录后根据角色生成路由，再router.addRoutes
+
 测试账号：
 
 admin / admin  
